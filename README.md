@@ -25,6 +25,12 @@ mk-optiplex7090 steps:
 6.	Change user account password (mkyuson) and go back to MKtech-ADDC step 10
 7.	Verify if SMB share is accessible to the PC
 
+Demo:
+1. Activate WoL and connect to the server via RDP using mobile device.
+2. Connect to server via RDP using PC
+3. Check SMB share connection
+4. Manage users and computers
+
 ---
 
 Details:\
@@ -53,4 +59,5 @@ Password1
 Note: All passwords are incorrect and for documentation purpose only.
 
 References:\
-WOL: https://www.dell.com/support/kbdoc/en-ph/000175283/how-to-setup-wake-on-lan-wol-on-your-dell-system
+WOL:\
+https://www.dell.com/support/kbdoc/en-ph/000175283/how-to-setup-wake-on-lan-wol-on-your-dell-system
